@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fontmap>
+  <font name="华光书宋_CNKI" file="HGSS_CNKI.TTF">
+    <item>方正书宋_GBK</item>
+    <item>宋体</item>
+    <item>simsun</item>
+      <item>FZSSJW--GB1-0</item>
+  </font>
+  <font name="华光黑体_CNKI" file="HGH_CNKI.TTF">
+    <item>方正黑体_GBK</item>
+    <item>方正艺黑简体</item>
+    <item>黑体</item>
+    <item>simhei</item>
+    <item>FZHTJW--GB1-0</item>
+  </font>
+  <font name="华光楷体_CNKI" file="HGKT_CNKI.TTF">
+    <item>方正楷体_GBK</item>
+    <item>楷体</item>
+    <item>simkai</item>
+  </font>
+  <font name="华光仿宋_CNKI" file="HGFS_CNKI.TTF">
+    <item>方正仿宋_GBK</item>
+    <item>仿宋</item>
+    <item>simfang</item>
+  </font>
+  <font name="华光小标宋_CNKI" file="HGXBS_CNKI.TTF">
+    <item>方正小标宋_GBK</item>
+  </font>
+  <font name="华光行楷_CNKI" file="HGXK_CNKI.TTF">
+    <item>方正行楷_GBK</item>
+    <item>方正康体_GBK</item>
+    <item>方正平和_GBK</item>
+    <item>方正启体简体</item>
+    <item>方正舒体_GBK</item>
+    <item>方正新舒体_GBK</item>
+    <item>方正硬笔楷书简体</item>
+    <item>行楷</item>
+  </font>
+  <font name="华光魏体_CNKI" file="HGWT_CNKI.TTF">
+    <item>方正魏碑_GBK</item>
+    <item>方正北魏楷书_GB18030</item>
+  </font>
+  <font name="华光隶书_CNKI" file="HGLS_CNKI.TTF">
+    <item>方正隶书_GBK</item>
+    <item>方正华隶_GBK</item>
+    <item>方正隶二_GBK</item>
+    <item>隶书</item>
+    <item>simli</item>
+  </font>
+  <font name="华光准圆_CNKI" file="HGY3_CNKI.TTF">
+    <item>方正准圆_GBK</item>
+    <item>方正少儿_GBK</item>
+  </font>
+  <font name="华光大黑_CNKI" file="HGDH_CNKI.TTF">
+    <item>方正大黑_GBK</item>
+  </font>
+  <font name="华光粗圆_CNKI" file="HGY4_CNKI.TTF">
+    <item>方正粗圆_GBK</item>
+    <item>粗圆</item>
+  </font>
+  <font name="华光细圆_CNKI" file="HGY1_CNKI.TTF">
+    <item>方正细圆_GBK</item>
+  </font>
+  <font name="华光大标宋_CNKI" file="HGDBS_CNKI.TTF">
+    <item>方正大标宋_GBK</item>
+    <item>大标宋</item>
+  </font>
+  <font name="华光综艺_CNKI" file="HGZY_CNKI.TTF">
+    <item>方正综艺_GBK</item>
+  </font>
+  <font name="华光姚体_CNKI" file="HGYT_CNKI.TTF">
+    <item>方正姚体_GBK</item>
+  </font>
+  <font name="华光细黑_CNKI" file="HGXH_CNKI.TTF">
+    <item>方正细等线_GBK</item>
+  </font>
+  <font name="华光中等线_CNKI" file="HGZDX_CNKI.TTF">
+    <item>方正中等线_GBK</item>
+  </font>
+  <font name="华光琥珀_CNKI" file="HGHP_CNKI.TTF">
+    <item>方正琥珀_GBK</item>
+  </font>
+  <font name="华光报宋_CNKI" file="HGBS_CNKI.TTF">
+    <item>方正报宋_GBK</item>
+  </font>
+  <font name="华光标题宋_CNKI" file="HGBTS_CNKI.TTF">
+    <item>方正粗宋_GBK</item>
+  </font>
+  <font name="华光超粗黑_CNKI" file="HGCUH_CNKI.TTF">
+    <item>方正超粗黑_GBK</item>
+  </font>
+  <font name="华光彩云_CNKI" file="HGCY_CNKI.TTF">
+    <item>方正彩云_GBK</item>
+  </font>
+  <font name="华光淡古印_CNKI" file="HGDGY_CNKI.TTF">
+    <item>方正水柱_GBK</item>
+    <item>方正水黑简体</item>
+  </font>
+  <font name="华光黑变_CNKI" file="HGHB_CNKI.TTF">
+    <item>方正宋黑_GBK</item>
+    <item>方正黑变_GBK</item>
+  </font>
+  <font name="华光隶变_CNKI" file="HGLB_CNKI.TTF">
+    <item>方正隶变_GBK</item>
+    <item>方正古隶_GBK</item>
+  </font>
+  <font name="华光美黑_CNKI" file="HGMH_CNKI.TTF">
+    <item>方正美黑_GBK</item>
+    <item>方正粗活意简体</item>
+  </font>
+  <font name="华光胖头鱼_CNKI" file="HGPTY_CNKI.TTF">
+    <item>方正胖娃_GBK</item>
+  </font>
+  <font name="华光文韵宋_CNKI" file="HGWYS_CNKI.TTF">
+    <item>方正新报宋_GBK</item>
+  </font>
+  <font name="华光细黑一_CNKI" file="HGXH1_CNKI.TTF">
+    <item>方正细黑一_GBK</item>
+  </font>
+  <font name="华光幼线_CNKI" file="HGYX_CNKI.TTF">
+    <item>方正幼线_GBK</item>
+  </font>
+  <font name="华光中雅_CNKI" file="HGZYT_CNKI.TTF">
+    <item>方正中倩_GBK</item>
+    <item>方正细倩_GBK</item>
+    <item>方正粗倩_GBK</item>
+    <item>方正毡笔黑简体</item>
+  </font>
+  <font name="华光敦韵宋_CNKI" file="HGDYS_CNKI.TTF">
+    <item>方正博雅宋_GBK</item>
+  </font>
+  <font name="华光书宋一_CNKI" file="HGSS1_CNKI.TTF">
+    <item>方正宋一_GBK</item>
+  </font>
+  <font name="华光行草_CNKI" file="HGXC_CNKI.TTF">
+    <item>方正瘦金书_GBK</item>
+    <item>方正黄草_GBK</item>
+  </font>
+  <font name="华光中楷_CNKI" file="HGZK_CNKI.TTF">
+    <item>方正中楷繁体</item>
+  </font>
+  <font name="华光报宋二_CNKI" file="HGBS2_CNKI.TTF">
+    <item>方正兰亭刊宋_GBK</item>
+  </font>
+  <font name="华光报宋一_CNKI" file="HGBS1_CNKI.TTF">
+    <item>方正兰亭宋_GBK</item>
+  </font>
+  <font name="华光标题黑_CNKI" file="HGBTH_CNKI.TTF">
+    <item>方正韵动特黑简体</item>
+  </font>
+  <font name="华光粗黑_CNKI" file="HGCH_CNKI.TTF">
+    <item>方正韵动粗黑简体_GBK</item>
+  </font>
+  <font name="华光大黑二_CNKI" file="HGDH2_CNKI.TTF">
+    <item>方正韵动中黑简体</item>
+    <item>方正稚艺_GBK</item>
+  </font>
+  <font name="华光方珊瑚_CNKI" file="HGFSH_CNKI.TTF">
+    <item>方正细珊瑚_GBK</item>
+  </font>
+  <font name="华光仿宋二_CNKI" file="HGFS2_CNKI.TTF">
+    <item>方正颜宋简体_纤</item>
+  </font>
+  <font name="华光仿宋一_CNKI" file="HGFS1_CNKI.TTF">
+    <item>方正刻本仿宋简体</item>
+  </font>
+  <!--<font name="华光广告_CNKI" file="HGGG_CNKI.TTF">
+    <item>方正稚艺_GBK</item>
+  </font>-->
+  <font name="华光楷体二_CNKI" file="HGKT2_CNKI.TTF">
+    <item>方正粗楷简体</item>
+  </font>
+  <font name="华光楷体一_CNKI" file="HGKT1_CNKI.TTF">
+    <item>方正宋刻本秀楷简体</item>
+  </font>
+  <font name="华光平黑_CNKI" file="HGPH_CNKI.TTF">
+    <item>方正平黑繁体</item>
+  </font>
+  <font name="华光书宋二_CNKI" file="HGSS2_CNKI.TTF">
+    <item>方正宋三_GBK</item>
+  </font>
+  <font name="华光通心圆_CNKI" file="HGTX_CNKI.TTF">
+    <item>方正正大黑简体</item>
+  </font>
+  <font name="华光行书_CNKI" file="HGXS_CNKI.TTF">
+    <item>方正汉简简体</item>
+    <item>方正卡通简体</item>
+    <item>方正硬笔行书简体</item>
+  </font>
+  <font name="华光秀丽_CNKI" file="HGXL_CNKI.TTF">
+    <item>方正新秀丽繁体</item>
+  </font>
+  <font name="华光中长宋_CNKI" file="HGZCS_CNKI.TTF">
+    <item>方正清刻本悦宋简体</item>
+  </font>
+  <font name="华光中圆_CNKI" file="HGY2_CNKI.TTF">
+    <item>方正准圆_GBK</item>
+  </font>
+</fontmap>
